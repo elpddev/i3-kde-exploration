@@ -9,6 +9,5 @@ The setup is based mainly on other great people who kindly shared their work and
 * [Using i3 window manager with KDE Plasma](https://medium.com/@vishnu_mad/using-i3-window-manager-with-kde-plasma-c2ac70594d8)
 * [Using i3 with KDE Plasma](https://ryanlue.com/posts/2019-06-13-kde-i3)
 
-## References
 
 
